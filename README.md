@@ -4,6 +4,6 @@ Zomato Clone in Angular With API
 
 # Technology Used
 
-HTML, CSS, Angular, Bootstrap
+HTML, CSS, JavaScript, Typescript, Angular, Bootstrap
 
 
