@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class FoodService {
 
-  apiEndPoint: string = "https://freeapi.miniprojectideas.com/api/zomato/";
+  apiEndPoint: string = "https://localhost:3000";
 
   constructor(private http: HttpClient) { }
 
